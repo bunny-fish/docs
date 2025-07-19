@@ -7,7 +7,7 @@ Start by verifying that Python is installed and accessible by checking the insta
 
 ``python --version``
 
-Set up a virtual environment using the ```venv``` command from the Python standard library.
+Set up a virtual environment using the ``venv`` command from the Python standard library.
 
 ``python -m venv .venv``
 
